@@ -9,6 +9,7 @@ class Evaluate:
    
 
   def __init__(self, size):
+  //
 
     """Inits Evaluate with top, size_of_stack and stack.
     Arguments:
